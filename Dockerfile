@@ -1,0 +1,1 @@
+FROM kubeless/http-trigger-controller:v1.0.1
